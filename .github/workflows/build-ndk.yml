@@ -70,7 +70,7 @@ jobs:
         restore: true
         cache: false
         publish: false
-        qpm_version: "version@1.5.7"
+        qpm_version: "version@1.5.8"
 
     - name: Build & Create Qmod
       run: |
